@@ -1,10 +1,10 @@
 document.getElementById("menu").innerHTML = "<div id='menukiri'>\
-		<a href=''>Home</a>\
-		<a href=''>Profile</a>\
-		<a href=''>Konten</a>\
-		<a href=''>Program Unggulan</a>\
-		<a href=''>Kegiatan</a>\
-		<a href=''>Visi Misi</a>\
+		<a href='index.html'>Home</a>\
+		<a href='profile.html'>Profile</a>\
+		<a href='konten.html'>Konten</a>\
+		<a href='programunggulan.html'>Program Unggulan</a>\
+		<a href='kegiatan.html'>Kegiatan</a>\
+		<a href='visimisi.html'>Visi Misi</a>\
 	</div>\
 	<div id='menukanan'>\
 	<a href=''><i class='fab fa-facebook'></i></a> \
