@@ -1,0 +1,71 @@
+/*buat mobile */
+@media only screen and (max-width: 925px) {
+	#imagecard2 img{
+		float: none;
+		    margin-right: 0;
+    border-radius: 20px;
+    width: 350px;
+	}
+}
+
+#menu {
+    background: #00a1ff;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    display: flow-root;
+    margin: 0;
+}
+body {
+	margin: 0;
+font-family: sans-serif;
+}
+div#box1 {
+    background: #3cdbff;
+    width: 400px;
+    border-radius: 20px;
+    height: 400px;
+        color: #fff;
+            box-shadow: 0 4px 8px 0 rgb(0 0 0 / 32%);
+}
+button#btn1 {
+    background: white;
+    border: 0;
+    padding: 20px;
+    border-radius: 50px;
+    transition: all .2s ease-in-out;
+        box-shadow:0 0px 6px 0px rgb(0 0 0 / 32%);
+        cursor: pointer;
+        margin-bottom: 5px 
+}
+button#btn1:hover {
+    background: #c4f4ff;
+    border: 0;
+    padding: 20px;
+    border-radius: 50px;
+    transition: all .2s ease-in-out;
+        box-shadow: 0 0px 10px 0 rgb(0 0 0 / 32%);
+}
+i {
+    color: #fff;
+}
+div#menukiri a {
+    float: left;
+    color: #fff;
+    margin: 7px;
+    text-decoration: none;
+}
+div#menukanan a {
+    float: right;
+    color: #fff;
+    margin: 7px;
+}
+footer {
+    background: #2089a2;
+    color: #fff;
+    padding: 12px;
+    text-align: center;
+}
+footer p a{
+	color: #fff;
+}
